@@ -1,6 +1,6 @@
 # INFORMACIÓN
 
-Este repositorio sirve de guía para la organización.
+Este repositorio sirve de guía para el grupo de investigación BISITE de la Universidad de Salamanca.
 
 ##Intro
 
