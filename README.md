@@ -8,7 +8,7 @@ La idea del repositorio de Bisite es que no reinventemos la rueda y podemos reut
 
 Tenemos repositorios ilimitados. Cualquier idea de organización o de cualquier tipo podeis proponerla comentando o modificar este archivo y hacer un pull request, la idea es que vayamos ajustando la organización para que sea rápida y eficiente.
 
-##Estructuracion
+##Estructuración
 
 Hay un repositorio para compartir datasheets.
 
