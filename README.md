@@ -1,4 +1,4 @@
-# INFORMACION
+# INFORMACIÓN
 
 Este repositorio sirve de guía para la organización.
 
